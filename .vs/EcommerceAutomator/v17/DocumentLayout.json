@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ajay\\Desktop\\New Ecommerce Automation\\NewAutomationEcommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7CDABE-10F6-43A4-940B-1E3E0EAAF71D}|EcommerceAutomator\\EcommerceAutomator.csproj|c:\\users\\ajay\\desktop\\new ecommerce automation\\newautomationecommerce\\ecommerceautomator\\features\\userauthentication.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD7CDABE-10F6-43A4-940B-1E3E0EAAF71D}|EcommerceAutomator\\EcommerceAutomator.csproj|solutionrelative:ecommerceautomator\\features\\userauthentication.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7CDABE-10F6-43A4-940B-1E3E0EAAF71D}|EcommerceAutomator\\EcommerceAutomator.csproj|c:\\users\\ajay\\desktop\\new ecommerce automation\\newautomationecommerce\\ecommerceautomator\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7CDABE-10F6-43A4-940B-1E3E0EAAF71D}|EcommerceAutomator\\EcommerceAutomator.csproj|solutionrelative:ecommerceautomator\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7CDABE-10F6-43A4-940B-1E3E0EAAF71D}|EcommerceAutomator\\EcommerceAutomator.csproj|c:\\users\\ajay\\desktop\\new ecommerce automation\\newautomationecommerce\\ecommerceautomator\\frameworks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7CDABE-10F6-43A4-940B-1E3E0EAAF71D}|EcommerceAutomator\\EcommerceAutomator.csproj|solutionrelative:ecommerceautomator\\frameworks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7CDABE-10F6-43A4-940B-1E3E0EAAF71D}|EcommerceAutomator\\EcommerceAutomator.csproj|c:\\users\\ajay\\desktop\\new ecommerce automation\\newautomationecommerce\\ecommerceautomator\\stepdefinitions\\navigationstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7CDABE-10F6-43A4-940B-1E3E0EAAF71D}|EcommerceAutomator\\EcommerceAutomator.csproj|solutionrelative:ecommerceautomator\\stepdefinitions\\navigationstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7CDABE-10F6-43A4-940B-1E3E0EAAF71D}|EcommerceAutomator\\EcommerceAutomator.csproj|c:\\users\\ajay\\desktop\\new ecommerce automation\\newautomationecommerce\\ecommerceautomator\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7CDABE-10F6-43A4-940B-1E3E0EAAF71D}|EcommerceAutomator\\EcommerceAutomator.csproj|solutionrelative:ecommerceautomator\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7CDABE-10F6-43A4-940B-1E3E0EAAF71D}|EcommerceAutomator\\EcommerceAutomator.csproj|c:\\users\\ajay\\desktop\\new ecommerce automation\\newautomationecommerce\\ecommerceautomator\\test.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AD7CDABE-10F6-43A4-940B-1E3E0EAAF71D}|EcommerceAutomator\\EcommerceAutomator.csproj|solutionrelative:ecommerceautomator\\test.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7CDABE-10F6-43A4-940B-1E3E0EAAF71D}|EcommerceAutomator\\EcommerceAutomator.csproj|c:\\users\\ajay\\desktop\\new ecommerce automation\\newautomationecommerce\\ecommerceautomator\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7CDABE-10F6-43A4-940B-1E3E0EAAF71D}|EcommerceAutomator\\EcommerceAutomator.csproj|solutionrelative:ecommerceautomator\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ajay\\Desktop\\New Ecommerce Automation\\NewAutomationEcommerce\\EcommerceAutomator\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "EcommerceAutomator\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Ajay\\Desktop\\New Ecommerce Automation\\NewAutomationEcommerce\\EcommerceAutomator\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "EcommerceAutomator\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA+wDgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:59:37.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAuthentication.feature",
+              "DocumentMoniker": "C:\\Users\\Ajay\\Desktop\\New Ecommerce Automation\\NewAutomationEcommerce\\EcommerceAutomator\\Features\\UserAuthentication.feature",
+              "RelativeDocumentMoniker": "EcommerceAutomator\\Features\\UserAuthentication.feature",
+              "ToolTip": "C:\\Users\\Ajay\\Desktop\\New Ecommerce Automation\\NewAutomationEcommerce\\EcommerceAutomator\\Features\\UserAuthentication.feature",
+              "RelativeToolTip": "EcommerceAutomator\\Features\\UserAuthentication.feature",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-31T08:53:12.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\Ajay\\Desktop\\New Ecommerce Automation\\NewAutomationEcommerce\\EcommerceAutomator\\Frameworks\\Hooks.cs",
+              "RelativeDocumentMoniker": "EcommerceAutomator\\Frameworks\\Hooks.cs",
+              "ToolTip": "C:\\Users\\Ajay\\Desktop\\New Ecommerce Automation\\NewAutomationEcommerce\\EcommerceAutomator\\Frameworks\\Hooks.cs",
+              "RelativeToolTip": "EcommerceAutomator\\Frameworks\\Hooks.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:53:14.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavigationStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Ajay\\Desktop\\New Ecommerce Automation\\NewAutomationEcommerce\\EcommerceAutomator\\StepDefinitions\\NavigationStepDefinitions.cs",
+              "RelativeDocumentMoniker": "EcommerceAutomator\\StepDefinitions\\NavigationStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Ajay\\Desktop\\New Ecommerce Automation\\NewAutomationEcommerce\\EcommerceAutomator\\StepDefinitions\\NavigationStepDefinitions.cs",
+              "RelativeToolTip": "EcommerceAutomator\\StepDefinitions\\NavigationStepDefinitions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:26:11.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Ajay\\Desktop\\New Ecommerce Automation\\NewAutomationEcommerce\\EcommerceAutomator\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "EcommerceAutomator\\ImplicitUsings.cs",
+              "ToolTip": "C:\\Users\\Ajay\\Desktop\\New Ecommerce Automation\\NewAutomationEcommerce\\EcommerceAutomator\\ImplicitUsings.cs",
+              "RelativeToolTip": "EcommerceAutomator\\ImplicitUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:55:27.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "test.runsettings",
+              "DocumentMoniker": "C:\\Users\\Ajay\\Desktop\\New Ecommerce Automation\\NewAutomationEcommerce\\EcommerceAutomator\\test.runsettings",
+              "RelativeDocumentMoniker": "EcommerceAutomator\\test.runsettings",
+              "ToolTip": "C:\\Users\\Ajay\\Desktop\\New Ecommerce Automation\\NewAutomationEcommerce\\EcommerceAutomator\\test.runsettings",
+              "RelativeToolTip": "EcommerceAutomator\\test.runsettings",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-31T08:55:11.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Ajay\\Desktop\\New Ecommerce Automation\\NewAutomationEcommerce\\EcommerceAutomator\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "EcommerceAutomator\\Pages\\HomePage.cs",
+              "ToolTip": "C:\\Users\\Ajay\\Desktop\\New Ecommerce Automation\\NewAutomationEcommerce\\EcommerceAutomator\\Pages\\HomePage.cs",
+              "RelativeToolTip": "EcommerceAutomator\\Pages\\HomePage.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:26:18.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

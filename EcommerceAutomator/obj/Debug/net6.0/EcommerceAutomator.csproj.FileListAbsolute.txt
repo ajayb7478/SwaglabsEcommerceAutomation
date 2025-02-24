@@ -1,0 +1,584 @@
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.csproj.AssemblyReference.cache
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.GeneratedMSBuildEditorConfig.editorconfig
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.AssemblyInfoInputs.cache
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.AssemblyInfo.cs
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.csproj.CoreCompileInputs.cache
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\LivingDoc.Dtos.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\testhost.exe
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\testhost.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.deps.json
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.runtimeconfig.json
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.pdb
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\BoDi.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\FluentAssertions.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Gherkin.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\WebDriver.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\obj\Debug\net6.0\Ecommerc.E18181C3.Up2Date
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\obj\Debug\net6.0\refint\EcommerceAutomator.dll
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.pdb
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.genruntimeconfig.cache
+F:\SELENIUM STUFF\NewProject\EcommerceAutomator\EcommerceAutomator\EcommerceAutomator\obj\Debug\net6.0\ref\EcommerceAutomator.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\testhost.exe
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\LivingDoc.Dtos.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\testhost.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.deps.json
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.runtimeconfig.json
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.pdb
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\BoDi.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\FluentAssertions.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Gherkin.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\WebDriver.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.csproj.AssemblyReference.cache
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.GeneratedMSBuildEditorConfig.editorconfig
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.AssemblyInfoInputs.cache
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.AssemblyInfo.cs
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.csproj.CoreCompileInputs.cache
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.sourcelink.json
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\Ecommerc.E18181C3.Up2Date
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\refint\EcommerceAutomator.dll
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.pdb
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.genruntimeconfig.cache
+F:\SELENIUM STUFF\NewProject\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\ref\EcommerceAutomator.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\testhost.exe
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\LivingDoc.Dtos.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\testhost.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.deps.json
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.runtimeconfig.json
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.pdb
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\BoDi.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\FluentAssertions.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Gherkin.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\WebDriver.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.csproj.AssemblyReference.cache
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.GeneratedMSBuildEditorConfig.editorconfig
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.AssemblyInfoInputs.cache
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.AssemblyInfo.cs
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.csproj.CoreCompileInputs.cache
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.sourcelink.json
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\Ecommerc.E18181C3.Up2Date
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\refint\EcommerceAutomator.dll
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.pdb
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.genruntimeconfig.cache
+F:\SELENIUM STUFF\NewProjectwithCsharp\TestChromeSpec\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\ref\EcommerceAutomator.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\testhost.exe
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\LivingDoc.Dtos.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\testhost.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.deps.json
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.runtimeconfig.json
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.pdb
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\BoDi.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\FluentAssertions.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Gherkin.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\WebDriver.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.csproj.AssemblyReference.cache
+D:\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.AssemblyInfoInputs.cache
+D:\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.AssemblyInfo.cs
+D:\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.csproj.CoreCompileInputs.cache
+D:\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.sourcelink.json
+D:\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\Ecommerc.E18181C3.Up2Date
+D:\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\refint\EcommerceAutomator.dll
+D:\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.pdb
+D:\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.genruntimeconfig.cache
+D:\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\ref\EcommerceAutomator.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\testhost.exe
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\LivingDoc.Dtos.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\testhost.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.deps.json
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.runtimeconfig.json
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\EcommerceAutomator.pdb
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\BoDi.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Gherkin.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\WebDriver.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.csproj.AssemblyReference.cache
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.AssemblyInfoInputs.cache
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.AssemblyInfo.cs
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.csproj.CoreCompileInputs.cache
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.sourcelink.json
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\Ecommerc.E18181C3.Up2Date
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\refint\EcommerceAutomator.dll
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.pdb
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\EcommerceAutomator.genruntimeconfig.cache
+C:\Users\Ajay\Desktop\New Ecommerce Automation\NewAutomationEcommerce\EcommerceAutomator\obj\Debug\net6.0\ref\EcommerceAutomator.dll
