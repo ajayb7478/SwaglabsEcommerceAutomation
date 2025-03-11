@@ -33,3 +33,7 @@ steps:
     testResultsFiles: '**/*.trx'
     mergeTestResults: true
     testRunTitle: '$(Build.DefinitionName) - $(Build.BuildNumber)'
+- task: DotNetCoreCLI@2
+  inputs:
+    azureSubscription: 'Azure subscription 1(bc4d516f-57b7-4327-bbcf-b9f34e58b54d)'
+    command: 'test'
